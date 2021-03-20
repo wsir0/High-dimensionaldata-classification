@@ -10,13 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/本地库.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="修改本地文件读取">
       <change beforePath="$PROJECT_DIR$/测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/测试.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +55,16 @@
       <option name="presentableId" value="Default" />
       <updated>1616159772274</updated>
       <workItem from="1616159773759" duration="2114000" />
-      <workItem from="1616224596664" duration="537000" />
+      <workItem from="1616224596664" duration="924000" />
     </task>
+    <task id="LOCAL-00001" summary="修改本地文件读取">
+      <created>1616225408327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616225408327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,7 +87,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改本地文件读取" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改本地文件读取" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1616225187934">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1616225187934" />
+    <state x="555" y="266" key="Github.ShareDialog" timestamp="1616225289667">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="555" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1616225289667" />
     <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1616224885413">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -106,5 +120,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1616225140096" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616225420560">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616225420560" />
   </component>
 </project>
