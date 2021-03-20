@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="修改本地文件读取">
+    <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="PCAmix单类 KNN计算均值算法">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCAbiswajit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PCAbiswajit.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/测试.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +20,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="250a6a42-22a1-4fe5-905b-79509f4d289a" />
+  <component name="JupyterTrust" id="250a6a42-22a1-4fe5-905b-79509f4d289a">
+    <option name="files">
+      <option value="PCAmix.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1pyeULBQCR8JBw6HfyTQnTGmVvX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616159772274</updated>
       <workItem from="1616159773759" duration="2114000" />
-      <workItem from="1616224596664" duration="924000" />
+      <workItem from="1616224596664" duration="3426000" />
     </task>
     <task id="LOCAL-00001" summary="修改本地文件读取">
       <created>1616225408327</created>
@@ -64,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616225408327</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PCAmix单类 KNN计算均值算法">
+      <created>1616225759185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616225759185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改本地文件读取" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改本地文件读取" />
+    <MESSAGE value="PCAmix单类 KNN计算均值算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="PCAmix单类 KNN计算均值算法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1616225187934">
@@ -100,29 +121,29 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="555" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1616225289667" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1616224885413">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1616226267889">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1616224885413" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1616224885413">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1616226267889" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1616226267889">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1616224885413" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1616224885413">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1616226267889" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1616226267889">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1616224885413" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1616224885413">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1616226267889" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1616226267889">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1616224885413" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1616226267889" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1616225140096">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1616225140096" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616225420560">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616225773470">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616225420560" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616225773470" />
   </component>
 </project>
