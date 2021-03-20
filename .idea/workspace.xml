@@ -5,9 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="加入famd混合主成分分析">
+    <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/测试.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="5f7b8679-5cae-4b67-b7fc-856fa682b1ec" />
+  <component name="JupyterTrust" id="ebe5fda0-7302-4a8b-bf6b-c0b16039d32f" />
   <component name="ProjectId" id="1pyeULBQCR8JBw6HfyTQnTGmVvX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,14 +36,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/ChromeCoreDownloads/prince-0.6.3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -61,6 +62,10 @@
       <workItem from="1616159773759" duration="2114000" />
       <workItem from="1616224596664" duration="6814000" />
       <workItem from="1616233226146" duration="2152000" />
+      <workItem from="1616236773972" duration="306000" />
+      <workItem from="1616238472221" duration="841000" />
+      <workItem from="1616239396729" duration="2023000" />
+      <workItem from="1616241566820" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="修改本地文件读取">
       <created>1616225408327</created>
@@ -90,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616233715054</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试">
+      <created>1616237006536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616237006536</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +131,8 @@
     <MESSAGE value="PCAmix单类 KNN计算均值算法" />
     <MESSAGE value="PCA算法原始代码" />
     <MESSAGE value="加入famd混合主成分分析" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入famd混合主成分分析" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616233679459">
@@ -138,29 +151,29 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="555" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1616225289667" />
-    <state width="661" height="126" key="GridCell.Tab.0.bottom" timestamp="1616233547607">
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom" timestamp="1616236904972">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="126" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1616233547607" />
-    <state width="661" height="126" key="GridCell.Tab.0.center" timestamp="1616233547606">
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1616236904972" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center" timestamp="1616236904956">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="126" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1616233547606" />
-    <state width="661" height="126" key="GridCell.Tab.0.left" timestamp="1616233547606">
+    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1616236904956" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left" timestamp="1616236904956">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="126" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1616233547606" />
-    <state width="661" height="126" key="GridCell.Tab.0.right" timestamp="1616233547607">
+    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1616236904956" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right" timestamp="1616236904972">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="126" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1616233547607" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1616225140096">
+    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1616236904972" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1616236873159">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1616225140096" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616233726575">
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1616236873159" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616237017414">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616233726575" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616237017414" />
   </component>
 </project>
