@@ -6,37 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4261d50-63f8-4fb5-b522-c5f7e7b1b070" name="Default Changelist" comment="加入famd混合主成分分析">
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/.pylintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/__version__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/ca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/famd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/mca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/mfa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/one_hot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/pca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/svd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/prince/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/requirements.dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/tests/test_ca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/tests/test_famd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/tests/test_mca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/tests/test_mfa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prince-0.6.3/tests/test_pca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCAmix.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +60,7 @@
       <updated>1616159772274</updated>
       <workItem from="1616159773759" duration="2114000" />
       <workItem from="1616224596664" duration="6814000" />
-      <workItem from="1616233226146" duration="399000" />
+      <workItem from="1616233226146" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="修改本地文件读取">
       <created>1616225408327</created>
@@ -112,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616228058406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="加入famd混合主成分分析">
+      <created>1616233715054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616233715054</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +126,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1616233679459" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1616234051229">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1616234051229" />
     <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1616230477625">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -176,9 +158,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1616225140096" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616233329403">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1616233726575">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616233329403" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1616233726575" />
   </component>
 </project>
